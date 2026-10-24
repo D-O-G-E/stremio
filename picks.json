@@ -1,0 +1,66 @@
+[
+  {
+    "id": "tt1645089",
+    "type": "movie",
+    "name": "Inside Job",
+    "year": "2010",
+    "list": "2008 financial crisis",
+    "note": "The essential one. Oscar-winning, tightly argued, with tough interviews of economists and officials. Goldman features heavily."
+  },
+  {
+    "id": "tt9419838",
+    "type": "movie",
+    "name": "Panic: The Untold Story of the 2008 Financial Crisis",
+    "year": "2018",
+    "list": "2008 financial crisis",
+    "note": "The rescue told by the people who ran it: Bernanke, Paulson, Geithner. Best inside view of the bailout decisions."
+  },
+  {
+    "id": "tt5952382",
+    "type": "movie",
+    "name": "Abacus: Small Enough to Jail",
+    "year": "2016",
+    "list": "2008 financial crisis",
+    "note": "Steve James on the only US bank criminally charged after the crisis: a small family bank in Chinatown. Unrelated to Goldman's Abacus deal."
+  },
+  {
+    "id": "tt6156350",
+    "type": "movie",
+    "name": "HyperNormalisation",
+    "year": "2016",
+    "list": "2008 financial crisis",
+    "note": "Adam Curtis. Traces how finance took power from politicians, starting with New York's 1975 fiscal crisis."
+  },
+  {
+    "id": "tt5723056",
+    "type": "movie",
+    "name": "Capital in the Twenty-First Century",
+    "year": "2019",
+    "list": "2008 financial crisis",
+    "note": "Based on Piketty's book. Archival-collage style close to Adam Curtis."
+  },
+  {
+    "id": "tt0133302",
+    "type": "series",
+    "name": "Frontline",
+    "year": "1983-",
+    "list": "2008 financial crisis",
+    "note": "Watch these episodes: 'Money, Power and Wall Street' (2012, four parts, the most thorough account), 'The Warning' (2009, the failed fight to regulate derivatives) and 'The Untouchables' (2013, why no bankers were prosecuted)."
+  },
+  {
+    "id": "tt32141120",
+    "type": "series",
+    "name": "Meltdown: The Secret History of the Global Collapse",
+    "year": "2010",
+    "list": "2008 financial crisis",
+    "note": "CBC, four parts. Global angle: Iceland, Europe and how the contagion spread."
+  },
+  {
+    "id": "tt1955162",
+    "type": "series",
+    "name": "All Watched Over by Machines of Loving Grace",
+    "year": "2011",
+    "list": "2008 financial crisis",
+    "note": "Adam Curtis. Episode one covers Greenspan, Ayn Rand and the belief that markets stabilize themselves."
+  }
+]

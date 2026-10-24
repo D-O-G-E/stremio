@@ -1,0 +1,49 @@
+{
+  "metas": [
+    {
+      "id": "tt1645089",
+      "type": "movie",
+      "name": "Inside Job",
+      "poster": "https://images.metahub.space/poster/medium/tt1645089/img",
+      "posterShape": "poster",
+      "releaseInfo": "2010",
+      "description": "The essential one. Oscar-winning, tightly argued, with tough interviews of economists and officials. Goldman features heavily."
+    },
+    {
+      "id": "tt9419838",
+      "type": "movie",
+      "name": "Panic: The Untold Story of the 2008 Financial Crisis",
+      "poster": "https://images.metahub.space/poster/medium/tt9419838/img",
+      "posterShape": "poster",
+      "releaseInfo": "2018",
+      "description": "The rescue told by the people who ran it: Bernanke, Paulson, Geithner. Best inside view of the bailout decisions."
+    },
+    {
+      "id": "tt5952382",
+      "type": "movie",
+      "name": "Abacus: Small Enough to Jail",
+      "poster": "https://images.metahub.space/poster/medium/tt5952382/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "description": "Steve James on the only US bank criminally charged after the crisis: a small family bank in Chinatown. Unrelated to Goldman's Abacus deal."
+    },
+    {
+      "id": "tt6156350",
+      "type": "movie",
+      "name": "HyperNormalisation",
+      "poster": "https://images.metahub.space/poster/medium/tt6156350/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "description": "Adam Curtis. Traces how finance took power from politicians, starting with New York's 1975 fiscal crisis."
+    },
+    {
+      "id": "tt5723056",
+      "type": "movie",
+      "name": "Capital in the Twenty-First Century",
+      "poster": "https://images.metahub.space/poster/medium/tt5723056/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "description": "Based on Piketty's book. Archival-collage style close to Adam Curtis."
+    }
+  ]
+}

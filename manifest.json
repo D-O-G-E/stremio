@@ -1,0 +1,32 @@
+{
+  "id": "community.doge.claude-picks",
+  "version": "1.0.0",
+  "name": "Claude's Picks",
+  "description": "Documentaries and films recommended by Claude.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "claude-picks",
+      "name": "Claude's Picks"
+    },
+    {
+      "type": "series",
+      "id": "claude-picks",
+      "name": "Claude's Picks"
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}

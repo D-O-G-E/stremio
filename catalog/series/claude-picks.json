@@ -1,0 +1,31 @@
+{
+  "metas": [
+    {
+      "id": "tt0133302",
+      "type": "series",
+      "name": "Frontline",
+      "poster": "https://images.metahub.space/poster/medium/tt0133302/img",
+      "posterShape": "poster",
+      "releaseInfo": "1983-",
+      "description": "Watch these episodes: 'Money, Power and Wall Street' (2012, four parts, the most thorough account), 'The Warning' (2009, the failed fight to regulate derivatives) and 'The Untouchables' (2013, why no bankers were prosecuted)."
+    },
+    {
+      "id": "tt32141120",
+      "type": "series",
+      "name": "Meltdown: The Secret History of the Global Collapse",
+      "poster": "https://images.metahub.space/poster/medium/tt32141120/img",
+      "posterShape": "poster",
+      "releaseInfo": "2010",
+      "description": "CBC, four parts. Global angle: Iceland, Europe and how the contagion spread."
+    },
+    {
+      "id": "tt1955162",
+      "type": "series",
+      "name": "All Watched Over by Machines of Loving Grace",
+      "poster": "https://images.metahub.space/poster/medium/tt1955162/img",
+      "posterShape": "poster",
+      "releaseInfo": "2011",
+      "description": "Adam Curtis. Episode one covers Greenspan, Ayn Rand and the belief that markets stabilize themselves."
+    }
+  ]
+}

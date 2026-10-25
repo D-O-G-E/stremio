@@ -1,5 +1,69 @@
 [
   {
+    "id": "tt1279083",
+    "type": "movie",
+    "name": "Examined Life",
+    "year": "2008",
+    "list": "Continental philosophy",
+    "note": "Good first watch. Philosophers including Žižek, Judith Butler, Cornel West and Avital Ronell (who comes out of deconstruction) talk through their ideas in plain terms while walking around cities."
+  },
+  {
+    "id": "tt0303326",
+    "type": "movie",
+    "name": "Derrida",
+    "year": "2002",
+    "list": "Continental philosophy",
+    "note": "Follows Derrida at home and on tour. He explains deconstruction, pushes back on the camera, and the film plays with deconstruction itself. Pairs well with his interview book Positions."
+  },
+  {
+    "id": "tt3418078",
+    "type": "series",
+    "name": "Human, All Too Human",
+    "year": "1999",
+    "list": "Continental philosophy",
+    "note": "BBC, three hour-long episodes: Nietzsche, Heidegger, Sartre. Clear background for both Land and Derrida. Start with the Nietzsche episode."
+  },
+  {
+    "id": "tt36243564",
+    "type": "movie",
+    "name": "The Stranger",
+    "year": "2025",
+    "list": "Continental philosophy",
+    "note": "François Ozon's black-and-white adaptation of Camus's novel. Best after reading the book and The Myth of Sisyphus."
+  },
+  {
+    "id": "tt1316540",
+    "type": "movie",
+    "name": "The Turin Horse",
+    "year": "2011",
+    "list": "Continental philosophy",
+    "note": "Béla Tarr, spun out of the story of Nietzsche collapsing after embracing a beaten horse in Turin. Slow and bleak on purpose: an experience film in the spirit of Zarathustra, not an explanation."
+  },
+  {
+    "id": "tt0206634",
+    "type": "movie",
+    "name": "Children of Men",
+    "year": "2006",
+    "list": "Continental philosophy",
+    "note": "Mark Fisher opens Capitalist Realism with this film, as a picture of a world that can no longer imagine a different future. Watch it alongside the book."
+  },
+  {
+    "id": "tt2152198",
+    "type": "movie",
+    "name": "The Pervert's Guide to Ideology",
+    "year": "2012",
+    "list": "Continental philosophy",
+    "note": "Slavoj Žižek analyzes films from inside recreated scenes. Fisher leans heavily on Žižek in Capitalist Realism, so this is useful context, and very entertaining."
+  },
+  {
+    "id": "tt0088247",
+    "type": "movie",
+    "name": "The Terminator",
+    "year": "1984",
+    "list": "Continental philosophy",
+    "note": "Its time loop, a machine from the future making sure it gets built, mirrors Land's idea of AI and capital arriving from the future. Mark Fisher wrote about the film too. Backdrop for Fanged Noumena."
+  },
+  {
     "id": "tt1645089",
     "type": "movie",
     "name": "Inside Job",

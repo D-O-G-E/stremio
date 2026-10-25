@@ -1,6 +1,69 @@
 {
   "metas": [
     {
+      "id": "tt1279083",
+      "type": "movie",
+      "name": "Examined Life",
+      "poster": "https://images.metahub.space/poster/medium/tt1279083/img",
+      "posterShape": "poster",
+      "releaseInfo": "2008",
+      "description": "Good first watch. Philosophers including Žižek, Judith Butler, Cornel West and Avital Ronell (who comes out of deconstruction) talk through their ideas in plain terms while walking around cities."
+    },
+    {
+      "id": "tt0303326",
+      "type": "movie",
+      "name": "Derrida",
+      "poster": "https://images.metahub.space/poster/medium/tt0303326/img",
+      "posterShape": "poster",
+      "releaseInfo": "2002",
+      "description": "Follows Derrida at home and on tour. He explains deconstruction, pushes back on the camera, and the film plays with deconstruction itself. Pairs well with his interview book Positions."
+    },
+    {
+      "id": "tt36243564",
+      "type": "movie",
+      "name": "The Stranger",
+      "poster": "https://images.metahub.space/poster/medium/tt36243564/img",
+      "posterShape": "poster",
+      "releaseInfo": "2025",
+      "description": "François Ozon's black-and-white adaptation of Camus's novel. Best after reading the book and The Myth of Sisyphus."
+    },
+    {
+      "id": "tt1316540",
+      "type": "movie",
+      "name": "The Turin Horse",
+      "poster": "https://images.metahub.space/poster/medium/tt1316540/img",
+      "posterShape": "poster",
+      "releaseInfo": "2011",
+      "description": "Béla Tarr, spun out of the story of Nietzsche collapsing after embracing a beaten horse in Turin. Slow and bleak on purpose: an experience film in the spirit of Zarathustra, not an explanation."
+    },
+    {
+      "id": "tt0206634",
+      "type": "movie",
+      "name": "Children of Men",
+      "poster": "https://images.metahub.space/poster/medium/tt0206634/img",
+      "posterShape": "poster",
+      "releaseInfo": "2006",
+      "description": "Mark Fisher opens Capitalist Realism with this film, as a picture of a world that can no longer imagine a different future. Watch it alongside the book."
+    },
+    {
+      "id": "tt2152198",
+      "type": "movie",
+      "name": "The Pervert's Guide to Ideology",
+      "poster": "https://images.metahub.space/poster/medium/tt2152198/img",
+      "posterShape": "poster",
+      "releaseInfo": "2012",
+      "description": "Slavoj Žižek analyzes films from inside recreated scenes. Fisher leans heavily on Žižek in Capitalist Realism, so this is useful context, and very entertaining."
+    },
+    {
+      "id": "tt0088247",
+      "type": "movie",
+      "name": "The Terminator",
+      "poster": "https://images.metahub.space/poster/medium/tt0088247/img",
+      "posterShape": "poster",
+      "releaseInfo": "1984",
+      "description": "Its time loop, a machine from the future making sure it gets built, mirrors Land's idea of AI and capital arriving from the future. Mark Fisher wrote about the film too. Backdrop for Fanged Noumena."
+    },
+    {
       "id": "tt1645089",
       "type": "movie",
       "name": "Inside Job",

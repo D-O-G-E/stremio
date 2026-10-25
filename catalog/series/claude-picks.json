@@ -1,6 +1,15 @@
 {
   "metas": [
     {
+      "id": "tt3418078",
+      "type": "series",
+      "name": "Human, All Too Human",
+      "poster": "https://images.metahub.space/poster/medium/tt3418078/img",
+      "posterShape": "poster",
+      "releaseInfo": "1999",
+      "description": "BBC, three hour-long episodes: Nietzsche, Heidegger, Sartre. Clear background for both Land and Derrida. Start with the Nietzsche episode."
+    },
+    {
       "id": "tt0133302",
       "type": "series",
       "name": "Frontline",

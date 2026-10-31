@@ -1,5 +1,21 @@
 [
   {
+    "id": "tt0408472",
+    "type": "movie",
+    "name": "L'abécédaire de Gilles Deleuze",
+    "year": "1995",
+    "list": "Deleuze & Guattari",
+    "note": "Start here. Eight hours of Deleuze talking with Claire Parnet, one letter of the alphabet at a time (A for Animal, D for Desire...). The best way to hear him think; dip in by letter."
+  },
+  {
+    "id": "tt6964778",
+    "type": "movie",
+    "name": "Monument à Félix Guattari",
+    "year": "1994",
+    "list": "Deleuze & Guattari",
+    "note": "François Pain, who worked with Guattari at La Borde, assembles friends, artists and analysts around plenty of Guattari's own footage: schizoanalysis, the three ecologies and the work with Deleuze. The closest thing to a Guattari portrait."
+  },
+  {
     "id": "tt1279083",
     "type": "movie",
     "name": "Examined Life",

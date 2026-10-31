@@ -1,5 +1,69 @@
 [
   {
+    "id": "tt33076876",
+    "type": "series",
+    "name": "Corridors of Power: Should America Police the World?",
+    "year": "2024",
+    "list": "US power and foreign policy",
+    "note": "Dror Moreh's eight-part series: Kissinger, Powell, Albright, Wolfowitz and others on Iraq, Bosnia, Rwanda, Darfur and Syria, and when America should step in. The 2022 film cut is in the movies row."
+  },
+  {
+    "id": "tt22020670",
+    "type": "movie",
+    "name": "The Corridors of Power",
+    "year": "2022",
+    "list": "US power and foreign policy",
+    "note": "The single-film version of the Corridors of Power series, if you'd rather watch it in one go."
+  },
+  {
+    "id": "tt0317910",
+    "type": "movie",
+    "name": "The Fog of War",
+    "year": "2003",
+    "list": "US power and foreign policy",
+    "note": "Start here. Robert McNamara, Defense Secretary during Vietnam, looks back on the power he used and where he got it wrong. Errol Morris, Oscar winner. English."
+  },
+  {
+    "id": "tt4338184",
+    "type": "movie",
+    "name": "The Diplomat",
+    "year": "2015",
+    "list": "US power and foreign policy",
+    "note": "Richard Holbrooke, who negotiated the end of the Bosnian war at Dayton, told by his son. Pairs with Corridors of Power's Bosnia episodes. English."
+  },
+  {
+    "id": "tt0912593",
+    "type": "movie",
+    "name": "No End in Sight",
+    "year": "2007",
+    "list": "US power and foreign policy",
+    "note": "How the Iraq occupation went wrong, told by the insiders who were there. By Charles Ferguson, who made Inside Job. English."
+  },
+  {
+    "id": "tt0854678",
+    "type": "movie",
+    "name": "Taxi to the Dark Side",
+    "year": "2007",
+    "list": "US power and foreign policy",
+    "note": "Alex Gibney's Oscar winner: the death of an Afghan taxi driver in US custody opens up torture policy in the War on Terror. English."
+  },
+  {
+    "id": "tt15260794",
+    "type": "series",
+    "name": "Turning Point: 9/11 and the War on Terror",
+    "year": "2021",
+    "list": "US power and foreign policy",
+    "note": "Five parts covering the whole arc, from the roots of al-Qaeda through Afghanistan and Iraq to the 2021 withdrawal. English."
+  },
+  {
+    "id": "tt2309788",
+    "type": "movie",
+    "name": "The Gatekeepers",
+    "year": "2012",
+    "list": "US power and foreign policy",
+    "note": "By Dror Moreh, who made Corridors of Power. Six former heads of Israel's Shin Bet speak frankly about security and occupation. Oscar-nominated. Hebrew with subtitles, so not one for dinner."
+  },
+  {
     "id": "tt0408472",
     "type": "movie",
     "name": "L'abécédaire de Gilles Deleuze",
@@ -125,7 +189,7 @@
     "name": "Frontline",
     "year": "1983-",
     "list": "2008 financial crisis",
-    "note": "Watch these episodes: 'Money, Power and Wall Street' (2012, four parts, the most thorough account), 'The Warning' (2009, the failed fight to regulate derivatives) and 'The Untouchables' (2013, why no bankers were prosecuted)."
+    "note": "Watch these episodes: 'Money, Power and Wall Street' (2012, four parts, the most thorough account), 'The Warning' (2009, the failed fight to regulate derivatives) and 'The Untouchables' (2013, why no bankers were prosecuted). For US foreign policy: 'Ghosts of Rwanda' (2004, why the US and UN stood by during the genocide)."
   },
   {
     "id": "tt32141120",

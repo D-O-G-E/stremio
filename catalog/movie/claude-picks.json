@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt7215444",
+      "type": "movie",
+      "name": "The Final Year",
+      "poster": "https://images.metahub.space/poster/medium/tt7215444/img",
+      "posterShape": "poster",
+      "releaseInfo": "2017",
+      "description": "Follows John Kerry, Samantha Power and Ben Rhodes through Obama's last year of foreign policy, watching their plans run into 2016. English."
+    },
+    {
+      "id": "tt8811382",
+      "type": "movie",
+      "name": "Meeting Gorbachev",
+      "poster": "https://images.metahub.space/poster/medium/tt8811382/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "description": "Werner Herzog sits down with Gorbachev in his eighties to go over arms control, the Berlin Wall and the end of the USSR. Short and warm. English."
+    },
+    {
       "id": "tt22020670",
       "type": "movie",
       "name": "The Corridors of Power",

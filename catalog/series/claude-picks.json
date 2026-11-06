@@ -1,6 +1,105 @@
 {
   "metas": [
     {
+      "id": "tt0283181",
+      "type": "series",
+      "name": "The Death of Yugoslavia",
+      "poster": "https://images.metahub.space/poster/medium/tt0283181/img",
+      "posterShape": "poster",
+      "releaseInfo": "1995",
+      "description": "Start here. Norma Percy's masterpiece, from the team behind Putin, Russia and the West: Milošević, Tuđman, Izetbegović and the rest explain, on camera, how they took Yugoslavia apart. Six parts."
+    },
+    {
+      "id": "tt26548545",
+      "type": "series",
+      "name": "Putin vs the West",
+      "poster": "https://images.metahub.space/poster/medium/tt26548545/img",
+      "posterShape": "poster",
+      "releaseInfo": "2023",
+      "description": "Norma Percy's sequel to Putin, Russia and the West, picking up from 2014 through the 2022 invasion of Ukraine, with the leaders who sat across from Putin. Three parts."
+    },
+    {
+      "id": "tt41046341",
+      "type": "series",
+      "name": "Clash of the Superpowers: America vs China",
+      "poster": "https://images.metahub.space/poster/medium/tt41046341/img",
+      "posterShape": "poster",
+      "releaseInfo": "2026",
+      "description": "Norma Percy again, new this year: a decade of US-China rivalry from Trump's first term to now, with Bolton, McMaster, Jake Sullivan, Pelosi, Boris Johnson and Chinese officials. Two parts."
+    },
+    {
+      "id": "tt14055190",
+      "type": "series",
+      "name": "Trump Takes on the World",
+      "poster": "https://images.metahub.space/poster/medium/tt14055190/img",
+      "posterShape": "poster",
+      "releaseInfo": "2021",
+      "description": "Norma Percy on Trump's first-term foreign policy, told by his own officials and the foreign leaders who dealt with him. Three parts."
+    },
+    {
+      "id": "tt11379564",
+      "type": "series",
+      "name": "Castro's Revolution vs. The World",
+      "poster": "https://images.metahub.space/poster/medium/tt11379564/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "description": "Norma Percy on Cuba (UK title: Cuba: Castro vs the World): the missile crisis, Angola and the Soviet collapse, with Cuban, American and Russian insiders. Three parts."
+    },
+    {
+      "id": "tt9657712",
+      "type": "series",
+      "name": "Inside Europe: 10 Years of Turmoil",
+      "poster": "https://images.metahub.space/poster/medium/tt9657712/img",
+      "posterShape": "poster",
+      "releaseInfo": "2019",
+      "description": "Norma Percy inside the EU's summit rooms: the euro crisis, Greece, the refugee crisis and Brexit, told by the prime ministers and presidents who argued it out. Three parts."
+    },
+    {
+      "id": "tt5579656",
+      "type": "series",
+      "name": "Inside Obama's White House",
+      "poster": "https://images.metahub.space/poster/medium/tt5579656/img",
+      "posterShape": "poster",
+      "releaseInfo": "2016",
+      "description": "Norma Percy with Obama himself and his inner circle on how the big decisions were actually made. Four parts."
+    },
+    {
+      "id": "tt26227818",
+      "type": "series",
+      "name": "Turning Point: The Bomb and the Cold War",
+      "poster": "https://images.metahub.space/poster/medium/tt26227818/img",
+      "posterShape": "poster",
+      "releaseInfo": "2024",
+      "description": "Same strand as the 9/11 Turning Point, but the full nuclear age from Hiroshima to Ukraine. Nine episodes, more strategy than battlefields."
+    },
+    {
+      "id": "tt0170896",
+      "type": "series",
+      "name": "Cold War",
+      "poster": "https://images.metahub.space/poster/medium/tt0170896/img",
+      "posterShape": "poster",
+      "releaseInfo": "1998",
+      "description": "The generational one: CNN's 24-part history from 1945 to 1991, narrated by Kenneth Branagh, built on interviews with key players on both sides. Long, but each episode stands alone."
+    },
+    {
+      "id": "tt0319210",
+      "type": "series",
+      "name": "Commanding Heights: The Battle for the World Economy",
+      "poster": "https://images.metahub.space/poster/medium/tt0319210/img",
+      "posterShape": "poster",
+      "releaseInfo": "2002",
+      "description": "PBS three-parter on the century-long fight between state and market, from Keynes and Hayek to globalisation, with the politicians and economists who made the calls."
+    },
+    {
+      "id": "tt1249251",
+      "type": "series",
+      "name": "The Second Russian Revolution",
+      "poster": "https://images.metahub.space/poster/medium/tt1249251/img",
+      "posterShape": "poster",
+      "releaseInfo": "1991",
+      "description": "The Gorbachev years told from inside the Politburo, made just as the Soviet Union was falling apart. Pairs well with Meeting Gorbachev."
+    },
+    {
       "id": "tt33076876",
       "type": "series",
       "name": "Corridors of Power: Should America Police the World?",
